@@ -4128,7 +4128,7 @@ class vector {
 
     //no copying vectors bitch, I didn't implement that yet
     vector(const vector& other) = delete;
-    operator=(const vector& other) = delete;
+    void operator=(const vector& other) = delete;
 
 
     vector() {
