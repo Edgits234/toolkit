@@ -5645,7 +5645,7 @@ namespace CMD {
 
 #endif//}
 
-// regex shenanigans {
+// regex shenanigans {{{{{{
 #if true 
 ///* FUNCTION FINDER REGEX COMMAND *///
 /*
